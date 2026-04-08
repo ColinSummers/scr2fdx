@@ -1,6 +1,2 @@
-# Ignore all SCR files in the root (originals belong to the archive, not the repo)
-/*.SCR
-/*.scr
-
 # OS files
 .DS_Store
