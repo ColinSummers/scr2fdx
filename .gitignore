@@ -1,2 +1,9 @@
+# Converted output (regenerated from source)
+converted/
+
+# Python
+__pycache__/
+*.pyc
+
 # OS files
 .DS_Store
